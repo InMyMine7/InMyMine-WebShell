@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>Hacked By '/Mine7</title>
+   <link rel="icon" type="image/x-icon" href="https://f.top4top.io/p_2707pk1va1.jpg">
+     <style> 
+        
+        html, body 
+        {
+          color: #FFFFFF; 
+         font-family: 'Fredericka the Great', sans-serif; 
+         font-weight: 100; height: 100vh; 
+         margin: 0;
+         }
+          .full-height 
+      { 
+      height: 100vh; 
+
+  } 
+
+.flex-center 
+{
+ align-items: center;
+display: flex; 
+justify-content: center;
+
+ }
+  .position-ref 
+
+{ 
+
+position: relative; 
+
+} 
+.content
+ { 
+ text-align: center; 
+} 
+.title 
+{
+ font-size: 36px; 
+padding: 20px;
+ } </style> 
+
+</head> 
+<body bgcolor="black" text="white" oncontextmenu="return false;" onkeydown="return false;" onmousedown="return false;" onclick="document.getElementById('lagu').play();fs()" id="body">
+<div class="flex-center position-ref full-height"> 
+<div class="flex-center position-ref full-height"> 
+<div class="content">
+<div class="text">
+ <font color="#ffffff">
+          <font size="5"></a>
+          <img src="https://i.pinimg.com/originals/a0/37/54/a037544cbb5c58875ace76db08d83ec2.gif" height="250">
+<br> <br>
+<audio src="https://j.top4top.io/m_3031iux341.mp3" autoplay="true" id="lagu"></audio><b><i><code>Hacked By '/Mine7</font>
+  <br><br>Muach <3
+<br><br>- SharkXploit -
+</body> 
+               </html>
